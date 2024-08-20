@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Divyaranjan Behera, a Software Developer Intern at Nexus Technoware Solution Pvt. Ltd., currently pursuing my Master's in Computer Applications from the Trident Institute of Creative Technology, Bhubaneswar.
+I'm Divyaranjan Behera, a Software Developer Intern at Nexus Technoware Solution Pvt. Ltd.
 
 ### 🌟 About Me
 - 🔭 I’m currently working on web applications using the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js), focusing on enhancing application performance and user experience.
