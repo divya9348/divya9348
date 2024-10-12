@@ -14,6 +14,7 @@ I'm Divyaranjan Behera, a Software Developer Intern at Nexus Technoware Solution
 ### 🚀 Projects
 - **Food Ordering System**: Developed a user-friendly, mobile-responsive interface using **Angular**, which improved customer engagement and reduced bounce rates by 30%.
 - **Online Meeting Application**: Built a secure full-stack online meeting application using the **MEAN stack**, featuring secure user authentication and role-based access control.
+- **Online Learning Platform**: Built a secure full-stack online learning platform using the **MEAN stack**, featuring secure user authentication using JWT and role-based access control, admin panel for create course, create lessons, create quizes, etc..
 
 ### 💻 Skills
 - **Front End Development**: HTML, CSS, JavaScript
